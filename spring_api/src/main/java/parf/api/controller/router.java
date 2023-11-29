@@ -13,6 +13,6 @@ public class router {
 
     @GetMapping("/public")
     public String publicAccess(){
-        return "ok";
+        return "public";
     }
 }
