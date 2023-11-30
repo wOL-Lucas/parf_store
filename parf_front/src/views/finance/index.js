@@ -35,7 +35,7 @@ const TransactionCard = styled.div`
 `;
 
 const ScrollableDetailDiv = styled.div`
-  max-height: 600px;
+  max-height: 55vh;
   overflow-y: auto;
 `;
 
