@@ -1,0 +1,14 @@
+:root{
+    --credi-color: #00a091;
+    --credi-color-darker:#003641;
+    --credi-color-lighter:#20c997;
+}
+
+*{
+    margin: 0;
+}
+
+.root{
+    min-height: 100vh;
+}
+
